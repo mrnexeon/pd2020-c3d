@@ -66,7 +66,7 @@ VR Concept. Работа с программой VR Concept и ее API.
 
 ### Кормилицын А.
 
--
+-Работа с программой VRConcept и ее API. Изучение RobotStudio.
 
 ### Бочарников А.
 
