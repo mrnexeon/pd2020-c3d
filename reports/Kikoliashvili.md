@@ -19,5 +19,6 @@
 | VR Concept | Поиск и анализ классов VR Concept | 5 |
 | VR Concept | Создание документации к классам C3D и VR Concept | 12 |
 | VR Concept | Общение с представителем VR Concept | 2 |
+| VR Concept | Создание отчёта по проекту | 5 |
 |              | **Всего часов**                                                                       | 67 |
 
