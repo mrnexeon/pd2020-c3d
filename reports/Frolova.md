@@ -16,9 +16,9 @@
 | VR Concept  | Фидбэк VR Concept                                    |  2 часов 
 | VR Concept  | Добавление описания классов в SDK                    | 16 часов
 | VR Concept  | Написание документации                               | 15 часов
+| VR Concept  | Общение с представителями VR Concept                 | 2 часа
+| VR Concept  | Изучение API RobotStudio                             | 10 часа
 | VR Concept  |                                                      | 
 | VR Concept  |                                                      | 
 | VR Concept  |                                                      | 
-| VR Concept  |                                                      | 
-| VR Concept  |                                                      | 
-|             | **Всего часов**                                      | 60 часов
+|             | **Всего часов**                                      | 72 часов
